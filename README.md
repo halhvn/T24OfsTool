@@ -1,1 +1,1 @@
-Tool to execute T24 OFS messages
+# T24 Ofs Tool
