@@ -1,0 +1,12 @@
+c:\users\le hong ha\documents\visual studio 2010\Projects\T24OfsTool\T24OfsTool\bin\Debug\T24OfsTool.exe
+c:\users\le hong ha\documents\visual studio 2010\Projects\T24OfsTool\T24OfsTool\bin\Debug\T24OfsTool.pdb
+c:\users\le hong ha\documents\visual studio 2010\Projects\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.Properties.Resources.resources
+c:\users\le hong ha\documents\visual studio 2010\Projects\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.csproj.GenerateResource.Cache
+c:\users\le hong ha\documents\visual studio 2010\Projects\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.exe
+c:\users\le hong ha\documents\visual studio 2010\Projects\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.pdb
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.exe
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.pdb
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\bin\Debug\T24OfsTool.exe
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\bin\Debug\T24OfsTool.pdb
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.Properties.Resources.resources
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Debug\T24OfsTool.csproj.GenerateResource.Cache

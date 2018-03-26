@@ -1,0 +1,10 @@
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\bin\T24OfsTool.exe
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\bin\T24OfsTool.pdb
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.frmOFS.resources
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.Properties.Resources.resources
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.csproj.GenerateResource.Cache
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.exe
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.pdb
+D:\OneDrive - VPBank\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.csprojResolveAssemblyReference.cache
+D:\OneDrive for Business\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.exe
+D:\OneDrive for Business\Tools\T24OfsTool\T24OfsTool\obj\x86\Release\T24OfsTool.pdb
