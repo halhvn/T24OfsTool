@@ -1,1 +1,2 @@
 Thử nghiệm commit & check log
+Commit lần thứ 2
